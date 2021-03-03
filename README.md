@@ -1,7 +1,7 @@
 # flutter_helloworld_app
 
 A new Flutter application.
-![]screenshot.png
+![]screenshot.jpg
 
 ## Getting Started
 
